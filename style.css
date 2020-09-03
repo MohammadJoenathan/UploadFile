@@ -1,0 +1,19 @@
+h1 {font-size: 20px;}
+h2 {font-size: 20px;}
+
+ul {
+	background: blue;
+	padding: 20px
+}
+ul li {
+	background: white;
+	margin: 5px;
+}
+ol {
+	background-color: #FF69B4;
+	padding: 26px;
+}
+ol li {
+	background-color: rgb(254,240,245);
+	padding: 2px;
+}
